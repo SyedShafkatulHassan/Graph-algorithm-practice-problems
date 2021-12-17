@@ -1,1 +1,1 @@
-# Graph-algorithms-practice-problems
+# Graph-algorithm-practice-problems
